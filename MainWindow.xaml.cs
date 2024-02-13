@@ -22,7 +22,7 @@ namespace RegIN_Паксюаткин
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent( );
         }
     }
 }
